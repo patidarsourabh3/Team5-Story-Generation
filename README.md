@@ -9,9 +9,10 @@
     Aaryan Singh - 2019114017 
 
 ### Link 
-    - [Click to Download finetuned GPT2 model] (https://drive.google.com/drive/folders/18rQ5ju85DNyYtKFa1CbQ4NkUWzUFiydp?usp=sharing)
 
-### Submmission Details
+[Click to Download finetuned GPT2 model](https://drive.google.com/drive/folders/18rQ5ju85DNyYtKFa1CbQ4NkUWzUFiydp?usp=sharing)
+
+### Submission Details
 
     This submission contains -
         - a dataset folder
