@@ -19,6 +19,7 @@
         - a results folder
         - 3 ipynb files
         - README.md file
+        - Final Presentation
     
     - Dataset folder contains the roc stories dataset which has 6 files train.src, train.tgt,valid.src, valid.tgt, test.src, test.tgt each corresponding to the train, validtion and test set for finetuning GPT-2.
 
